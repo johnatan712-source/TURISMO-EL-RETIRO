@@ -1,0 +1,17 @@
+{
+  "name": "Turismo El Retiro",
+  "short_name": "El Retiro",
+  "description": "Guía turística de El Retiro, Antioquia: lugares, bici, senderismo, comida, ebanistería e historia.",
+  "lang": "es-CO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F3F6F1",
+  "theme_color": "#21734A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
